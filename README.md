@@ -1,6 +1,6 @@
 # NumericalCalculator
 
-![](ScreenShots/1.png)
+![](NumericalCalculator\Numercal_Project\ScreenShots/1.png)
 ![](ScreenShots/2.png)
 ![](ScreenShots/3.png)
 ![](ScreenShots/4.png)
