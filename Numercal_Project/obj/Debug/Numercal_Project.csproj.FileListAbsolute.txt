@@ -1,0 +1,128 @@
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.exe.config
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.AssemblyReference.cache
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.Form1.resources
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.Properties.Resources.resources
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.GenerateResource.cache
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CoreCompileInputs.cache
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Projects\C#\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.exe.config
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.AssemblyReference.cache
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.Form1.resources
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.Properties.Resources.resources
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.GenerateResource.cache
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CoreCompileInputs.cache
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\numgit\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CopyComplete
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.exe.config
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.exe
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\bin\Debug\Numercal_Project.pdb
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\bin\Debug\MathParser.org-mXparser.dll
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csprojAssemblyReference.cache
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.Form1.resources
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.Properties.Resources.resources
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.GenerateResource.cache
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CoreCompileInputs.cache
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CopyComplete
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.exe
+G:\GITHUP\NumericalProject\Numercal_Project\Numercal_Project\obj\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.csproj.AssemblyReference.cache
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.Form1.resources
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.Properties.Resources.resources
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.csproj.GenerateResource.cache
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.csproj.CoreCompileInputs.cache
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\bin\Debug\Numercal_Project.exe.config
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\bin\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\bin\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Moh21\Desktop\Numerical\New folder (3)\Numercal_Project\obj\Debug\Numercal_Project.csproj.CopyComplete
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\Numercal_Project.exe.config
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.AssemblyReference.cache
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.Properties.Resources.resources
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.GenerateResource.cache
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CoreCompileInputs.cache
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CopyComplete
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\MathNet.Numerics.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\System.Text.Json.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\System.Buffers.dll
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.exe.config
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\obj\Debug\Numerical_Project.Form1.resources
+C:\Users\Moh21\Desktop\Numerical_Project\Numerical_Project\Numercal_Project\bin\Debug\MathNet.Symbolics.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Numercal_Project.exe.config
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Numercal_Project.pdb
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FParsec.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FParsecCS.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FSharp.Core.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\MathNet.Numerics.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\MathNet.Symbolics.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Parsecs.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Buffers.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Memory.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Z.Expressions.Eval.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FParsec.pdb
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FParsec.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FParsecCS.pdb
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FParsecCS.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\FSharp.Core.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\MathNet.Numerics.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Buffers.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Memory.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.AssemblyReference.cache
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.exe.config
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numerical_Project.Form1.resources
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.Properties.Resources.resources
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.GenerateResource.cache
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CoreCompileInputs.cache
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.csproj.CopyComplete
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.exe
+C:\Users\Moh21\Desktop\Numerical_Project - Copy\Numerical_Project\Numercal_Project\obj\Debug\Numercal_Project.pdb
